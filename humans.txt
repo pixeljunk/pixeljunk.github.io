@@ -1,0 +1,17 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Web designer: Vance Tran
+  Site: http://vancetran.com
+  Twitter: http://vancetran.com
+  Location: San Diego, CA
+
+/* THANKS */
+  Names (& URL): H5BP.com, 960.gs, 5by5.tv
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: Espresso, Photoshop CS4, Transmit
